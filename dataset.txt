@@ -1,0 +1,5 @@
+Account_Age,Gender,User_Age,Link_Desc_Length,Status_Count,Friend_Count,Location_Length,IP_Length,Label
+2,Male,25,10,5,100,6,9,0
+3,Female,30,20,10,200,7,10,1
+1,Male,20,5,2,50,5,7,0
+4,Female,22,15,8,300,8,11,1
